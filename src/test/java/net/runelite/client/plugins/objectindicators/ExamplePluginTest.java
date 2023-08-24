@@ -1,4 +1,4 @@
-package com.example;
+package net.runelite.client.plugins.objectindicators;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;
